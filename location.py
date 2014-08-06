@@ -21,27 +21,32 @@ class Location:
         return self.hello
 
     def POST(self):
+        try:
+            data = web.data()
+            # print data
 
-        data = web.data()
+            request = json.loads(data)
 
-	print data
+            # serving_cell = request["serving cell"]["cell"]
+            ta = request["serving cell"]["ta"]
 
-        request = json.loads(data)
+            print ta
 
+            ta = int(ta);
+
+            if ta > 30 :
+                raise LookupError
+
+            return json.dumps(shapes[str(ta % 10 + 1)], sort_keys=True)
+            
+        except LookupError:
+            return web.notfound("Sorry, the location was not found.")
+        except:
+            return web.badrequest();
+    
 ##        print json.dumps(request["serving cell"])
 ##        print json.dumps(request["serving cell"]["ta"])
 ##        ta = int(json.dumps(request["serving cell"]["ta"])
-        serving_cell = request["serving cell"]["cell"]
-        ta = request["serving cell"]["ta"]
-
-        print serving_cell, ta
-
-        ta = int(ta);
-
-        if ta > 30 :
-            return web.notfound("Sorry, the location was not found.")
-
-        return json.dumps(shapes[str(ta % 10 + 1)], sort_keys=True)
         
  
 if __name__ == "__main__":
