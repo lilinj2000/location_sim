@@ -5,5 +5,7 @@ this tool require webpy support.
 
 please download it from webpy.org
 
+Python 2.7 is verified.
 
-run: python location.py port
+Run: 
+     python location.py port
