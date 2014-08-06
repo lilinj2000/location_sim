@@ -28,11 +28,9 @@ class Location:
             request = json.loads(data)
 
             # serving_cell = request["serving cell"]["cell"]
-            ta = request["serving cell"]["ta"]
+            ta = int(request["serving cell"]["ta"])
 
             print ta
-
-            ta = int(ta);
 
             if ta > 30 :
                 raise LookupError
@@ -43,10 +41,6 @@ class Location:
             return web.notfound("Sorry, the location was not found.")
         except:
             return web.badrequest();
-    
-##        print json.dumps(request["serving cell"])
-##        print json.dumps(request["serving cell"]["ta"])
-##        ta = int(json.dumps(request["serving cell"]["ta"])
         
  
 if __name__ == "__main__":
