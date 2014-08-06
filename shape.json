@@ -1,0 +1,102 @@
+{
+    "1":
+    {
+        "location":
+        {
+            "latitude": "11",
+            "longitude": "11",
+            "uncertainty radius": "80"
+        }
+    },
+
+    "2":
+    {
+        "location":
+        {
+            "latitude": "22",
+            "longitude": "22",
+            "uncertainty radius": "80"
+        }
+    },
+
+    "3":
+    {
+        "location":
+        {
+            "latitude": "33",
+            "longitude": "33",
+            "uncertainty radius": "80"
+        }
+    },
+
+    "4":
+    {
+        "location":
+        {
+            "latitude": "44",
+            "longitude": "44",
+            "uncertainty radius": "80"
+        }
+    },
+
+    "5":
+    {
+        "location":
+        {
+            "latitude": "55",
+            "longitude": "55",
+            "uncertainty radius": "80"
+        }
+    },
+
+    "6":
+    {
+        "location":
+        {
+            "latitude": "66",
+            "longitude": "66",
+            "uncertainty radius": "80"
+        }
+    },
+
+    "7":
+    {
+        "location":
+        {
+            "latitude": "77",
+            "longitude": "77",
+            "uncertainty radius": "80"
+        }
+    },
+
+    "8":
+    {
+        "location":
+        {
+            "latitude": "88",
+            "longitude": "88",
+            "uncertainty radius": "80"
+        }
+    },
+
+    "9":
+    {
+        "location":
+        {
+            "latitude": "90",
+            "longitude": "90",
+            "uncertainty radius": "80"
+        }
+    },
+
+   "10":
+    {
+        "location":
+        {
+            "latitude": "10",
+            "longitude": "10",
+            "uncertainty radius": "80"
+        }
+    } 
+}
+    
