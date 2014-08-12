@@ -36,7 +36,7 @@ class LocationResponse(object):
 
     def __repr__(self):
         response = '"%s" : ' % self.hash_string
-        response += '{"latitude" : "%s", "longitude" : "%s", "uncertainty radius" : "%s"}' \
+        response += '{"location" : {"latitude" : "%s", "longitude" : "%s", "uncertainty radius" : "%s"}}' \
         % (self.shape[0], self.shape[1], self.shape[2])
         return response
 
@@ -135,6 +135,8 @@ with io.open(pFile) as p_file:
             response_string += ','
 
         response_string += repr(locationResponse)
+
+        index = index + 1
         # request_file.write(hashlib.new('md5', location_request).hexdigest())
         # request_file.write('\n\n\n')
         # break
