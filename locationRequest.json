@@ -1,0 +1,1786 @@
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62482", 
+            "signal strength": "-65"
+        }, 
+        {
+            "cell": "6166-62115", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6166-62146", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6166-62147", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6166-62177", 
+            "signal strength": "-84"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62481", 
+        "signal strength": "-78", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62705", 
+            "signal strength": "-71"
+        }, 
+        {
+            "cell": "6166-9251", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6166-9235", 
+            "signal strength": "-78"
+        }, 
+        {
+            "cell": "6166-61857", 
+            "signal strength": "-84"
+        }, 
+        {
+            "cell": "6166-62675", 
+            "signal strength": "-84"
+        }, 
+        {
+            "cell": "6166-62673", 
+            "signal strength": "-84"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62674", 
+        "signal strength": "-74", 
+        "ta": "0"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-9235", 
+            "signal strength": "-47"
+        }, 
+        {
+            "cell": "6166-9233", 
+            "signal strength": "-72"
+        }, 
+        {
+            "cell": "6166-9234", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6166-9250", 
+            "signal strength": "-78"
+        }, 
+        {
+            "cell": "6166-9249", 
+            "signal strength": "-81"
+        }, 
+        {
+            "cell": "6166-8579", 
+            "signal strength": "-85"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-9251", 
+        "signal strength": "-49", 
+        "ta": "0"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-64145", 
+            "signal strength": "-76"
+        }, 
+        {
+            "cell": "6179-25106", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6166-9250", 
+            "signal strength": "-86"
+        }, 
+        {
+            "cell": "6179-24659", 
+            "signal strength": "-87"
+        }, 
+        {
+            "cell": "6166-9234", 
+            "signal strength": "-90"
+        }, 
+        {
+            "cell": "6166-61858", 
+            "signal strength": "-91"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-25105", 
+        "signal strength": "-69", 
+        "ta": "15"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-25105", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6179-25106", 
+            "signal strength": "-74"
+        }, 
+        {
+            "cell": "6166-62113", 
+            "signal strength": "-83"
+        }, 
+        {
+            "cell": "6166-61859", 
+            "signal strength": "-87"
+        }, 
+        {
+            "cell": "6166-63826", 
+            "signal strength": "-88"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-25107", 
+        "signal strength": "-69", 
+        "ta": "15"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62115", 
+            "signal strength": "-78"
+        }, 
+        {
+            "cell": "6166-62177", 
+            "signal strength": "-79"
+        }, 
+        {
+            "cell": "6179-24833", 
+            "signal strength": "-85"
+        }, 
+        {
+            "cell": "6166-62113", 
+            "signal strength": "-86"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62146", 
+        "signal strength": "-70", 
+        "ta": "9"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62707", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6166-8579", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6166-61857", 
+            "signal strength": "-82"
+        }, 
+        {
+            "cell": "6166-62674", 
+            "signal strength": "-84"
+        }, 
+        {
+            "cell": "6166-9251", 
+            "signal strength": "-85"
+        }, 
+        {
+            "cell": "6166-62706", 
+            "signal strength": "-87"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62705", 
+        "signal strength": "-69", 
+        "ta": "9"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-61858", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6166-63826", 
+            "signal strength": "-79"
+        }, 
+        {
+            "cell": "6166-61857", 
+            "signal strength": "-84"
+        }, 
+        {
+            "cell": "6361-58755", 
+            "signal strength": "-84"
+        }, 
+        {
+            "cell": "6166-61859", 
+            "signal strength": "-88"
+        }, 
+        {
+            "cell": "6179-24627", 
+            "signal strength": "-89"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62706", 
+        "signal strength": "-73", 
+        "ta": "10"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-9233", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6179-25091", 
+            "signal strength": "-78"
+        }, 
+        {
+            "cell": "6166-9250", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6166-9249", 
+            "signal strength": "-81"
+        }, 
+        {
+            "cell": "6179-24659", 
+            "signal strength": "-81"
+        }, 
+        {
+            "cell": "6166-9235", 
+            "signal strength": "-92"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-9234", 
+        "signal strength": "-73", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-9249", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6166-9234", 
+            "signal strength": "-75"
+        }, 
+        {
+            "cell": "6179-25091", 
+            "signal strength": "-82"
+        }, 
+        {
+            "cell": "6169-5379", 
+            "signal strength": "-84"
+        }, 
+        {
+            "cell": "6166-9235", 
+            "signal strength": "-84"
+        }, 
+        {
+            "cell": "6166-9250", 
+            "signal strength": "-84"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-9233", 
+        "signal strength": "-67", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-9250", 
+            "signal strength": "-64"
+        }, 
+        {
+            "cell": "6166-9233", 
+            "signal strength": "-67"
+        }, 
+        {
+            "cell": "6166-9251", 
+            "signal strength": "-68"
+        }, 
+        {
+            "cell": "6166-9234", 
+            "signal strength": "-68"
+        }, 
+        {
+            "cell": "6166-9235", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6166-8579", 
+            "signal strength": "-75"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-9249", 
+        "signal strength": "-54", 
+        "ta": "0"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62674", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6166-62673", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6166-62786", 
+            "signal strength": "-74"
+        }, 
+        {
+            "cell": "6169-5379", 
+            "signal strength": "-82"
+        }, 
+        {
+            "cell": "6166-9251", 
+            "signal strength": "-87"
+        }, 
+        {
+            "cell": "6166-9235", 
+            "signal strength": "-89"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62675", 
+        "signal strength": "-57", 
+        "ta": "2"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62674", 
+            "signal strength": "-72"
+        }, 
+        {
+            "cell": "6166-62673", 
+            "signal strength": "-75"
+        }, 
+        {
+            "cell": "6166-61457", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6166-61857", 
+            "signal strength": "-92"
+        }, 
+        {
+            "cell": "6166-62321", 
+            "signal strength": "-93"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62675", 
+        "signal strength": "-64", 
+        "ta": "0"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-9251", 
+            "signal strength": "-49"
+        }, 
+        {
+            "cell": "6166-61857", 
+            "signal strength": "-59"
+        }, 
+        {
+            "cell": "6166-9233", 
+            "signal strength": "-69"
+        }, 
+        {
+            "cell": "6166-61858", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6166-9234", 
+            "signal strength": "-76"
+        }, 
+        {
+            "cell": "6166-8579", 
+            "signal strength": "-77"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-9235", 
+        "signal strength": "-52", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-9235", 
+            "signal strength": "-63"
+        }, 
+        {
+            "cell": "6166-62705", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6166-9234", 
+            "signal strength": "-79"
+        }, 
+        {
+            "cell": "6166-9249", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6166-9233", 
+            "signal strength": "-85"
+        }, 
+        {
+            "cell": "6166-9250", 
+            "signal strength": "-86"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-9251", 
+        "signal strength": "-63", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62673", 
+            "signal strength": "-67"
+        }, 
+        {
+            "cell": "6166-62675", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6166-8579", 
+            "signal strength": "-82"
+        }, 
+        {
+            "cell": "6166-62627", 
+            "signal strength": "-86"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62674", 
+        "signal strength": "-43", 
+        "ta": "0"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-9235", 
+            "signal strength": "-84"
+        }, 
+        {
+            "cell": "6166-62097", 
+            "signal strength": "-87"
+        }, 
+        {
+            "cell": "6166-9251", 
+            "signal strength": "-89"
+        }, 
+        {
+            "cell": "6166-61857", 
+            "signal strength": "-91"
+        }, 
+        {
+            "cell": "6166-8579", 
+            "signal strength": "-92"
+        }, 
+        {
+            "cell": "6166-62674", 
+            "signal strength": "-93"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62705", 
+        "signal strength": "-79", 
+        "ta": "9"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-61857", 
+            "signal strength": "-62"
+        }, 
+        {
+            "cell": "6166-61858", 
+            "signal strength": "-62"
+        }, 
+        {
+            "cell": "6166-63826", 
+            "signal strength": "-63"
+        }, 
+        {
+            "cell": "6179-9009", 
+            "signal strength": "-67"
+        }, 
+        {
+            "cell": "6166-62113", 
+            "signal strength": "-69"
+        }, 
+        {
+            "cell": "6361-58755", 
+            "signal strength": "-79"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-61859", 
+        "signal strength": "-59", 
+        "ta": "9"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-8579", 
+            "signal strength": "-58"
+        }, 
+        {
+            "cell": "6166-9251", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6166-62674", 
+            "signal strength": "-81"
+        }, 
+        {
+            "cell": "6166-9249", 
+            "signal strength": "-85"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-8578", 
+        "signal strength": "-60", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62673", 
+            "signal strength": "-58"
+        }, 
+        {
+            "cell": "6166-62674", 
+            "signal strength": "-75"
+        }, 
+        {
+            "cell": "6166-61457", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6166-62321", 
+            "signal strength": "-78"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62675", 
+        "signal strength": "-65", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62673", 
+            "signal strength": "-60"
+        }, 
+        {
+            "cell": "6166-62674", 
+            "signal strength": "-74"
+        }, 
+        {
+            "cell": "6166-61457", 
+            "signal strength": "-79"
+        }, 
+        {
+            "cell": "6166-62321", 
+            "signal strength": "-87"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62675", 
+        "signal strength": "-61", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-9235", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6166-62707", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6166-8579", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6166-9251", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6166-62097", 
+            "signal strength": "-85"
+        }, 
+        {
+            "cell": "6166-62706", 
+            "signal strength": "-85"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62705", 
+        "signal strength": "-74", 
+        "ta": "10"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62481", 
+            "signal strength": "-58"
+        }, 
+        {
+            "cell": "6179-9107", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6166-62178", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6166-62482", 
+            "signal strength": "-81"
+        }, 
+        {
+            "cell": "6179-9011", 
+            "signal strength": "-82"
+        }, 
+        {
+            "cell": "6179-9009", 
+            "signal strength": "-84"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9058", 
+        "signal strength": "-77", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-8659", 
+            "signal strength": "-72"
+        }, 
+        {
+            "cell": "6179-9011", 
+            "signal strength": "-88"
+        }, 
+        {
+            "cell": "6179-8578", 
+            "signal strength": "-90"
+        }, 
+        {
+            "cell": "6179-9122", 
+            "signal strength": "-90"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-8579", 
+        "signal strength": "-63", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-8577", 
+            "signal strength": "-55"
+        }, 
+        {
+            "cell": "6179-8579", 
+            "signal strength": "-56"
+        }, 
+        {
+            "cell": "6179-8657", 
+            "signal strength": "-68"
+        }, 
+        {
+            "cell": "6179-8658", 
+            "signal strength": "-76"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-8659", 
+        "signal strength": "-55", 
+        "ta": "0"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-9121", 
+            "signal strength": "-40"
+        }, 
+        {
+            "cell": "6179-9122", 
+            "signal strength": "-41"
+        }, 
+        {
+            "cell": "6179-9010", 
+            "signal strength": "-62"
+        }, 
+        {
+            "cell": "6179-9011", 
+            "signal strength": "-71"
+        }, 
+        {
+            "cell": "6179-24691", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6179-25137", 
+            "signal strength": "-80"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9121", 
+        "signal strength": "-42", 
+        "ta": "12"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62481", 
+            "signal strength": "-66"
+        }, 
+        {
+            "cell": "6179-9043", 
+            "signal strength": "-71"
+        }, 
+        {
+            "cell": "6179-25153", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6179-9041", 
+            "signal strength": "-85"
+        }, 
+        {
+            "cell": "6179-25137", 
+            "signal strength": "-88"
+        }, 
+        {
+            "cell": "6179-25154", 
+            "signal strength": "-90"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9011", 
+        "signal strength": "-73", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-24835", 
+            "signal strength": "-68"
+        }, 
+        {
+            "cell": "6179-9121", 
+            "signal strength": "-71"
+        }, 
+        {
+            "cell": "6179-25137", 
+            "signal strength": "-71"
+        }, 
+        {
+            "cell": "6179-25153", 
+            "signal strength": "-72"
+        }, 
+        {
+            "cell": "6179-8579", 
+            "signal strength": "-81"
+        }, 
+        {
+            "cell": "6179-9011", 
+            "signal strength": "-85"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9121", 
+        "signal strength": "-74", 
+        "ta": "13"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-25105", 
+            "signal strength": "-74"
+        }, 
+        {
+            "cell": "6179-24835", 
+            "signal strength": "-76"
+        }, 
+        {
+            "cell": "6179-24689", 
+            "signal strength": "-78"
+        }, 
+        {
+            "cell": "6179-24833", 
+            "signal strength": "-78"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-25106", 
+        "signal strength": "-59", 
+        "ta": "15"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-64145", 
+            "signal strength": "-69"
+        }, 
+        {
+            "cell": "6166-61858", 
+            "signal strength": "-76"
+        }, 
+        {
+            "cell": "6179-25106", 
+            "signal strength": "-76"
+        }, 
+        {
+            "cell": "6166-62706", 
+            "signal strength": "-78"
+        }, 
+        {
+            "cell": "6166-9250", 
+            "signal strength": "-81"
+        }, 
+        {
+            "cell": "6166-63826", 
+            "signal strength": "-84"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-25105", 
+        "signal strength": "-56", 
+        "ta": "15"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-61858", 
+            "signal strength": "-63"
+        }, 
+        {
+            "cell": "6166-61857", 
+            "signal strength": "-66"
+        }, 
+        {
+            "cell": "6166-63826", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6179-9041", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6166-62147", 
+            "signal strength": "-74"
+        }, 
+        {
+            "cell": "6166-62145", 
+            "signal strength": "-75"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-61859", 
+        "signal strength": "-59", 
+        "ta": "10"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-9041", 
+            "signal strength": "-55"
+        }, 
+        {
+            "cell": "6166-61859", 
+            "signal strength": "-60"
+        }, 
+        {
+            "cell": "6179-9043", 
+            "signal strength": "-68"
+        }, 
+        {
+            "cell": "6166-62145", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6179-9042", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6166-62481", 
+            "signal strength": "-73"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9009", 
+        "signal strength": "-54", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-25105", 
+            "signal strength": "-68"
+        }, 
+        {
+            "cell": "6179-25106", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6166-62113", 
+            "signal strength": "-82"
+        }, 
+        {
+            "cell": "6166-61859", 
+            "signal strength": "-84"
+        }, 
+        {
+            "cell": "6166-62145", 
+            "signal strength": "-85"
+        }, 
+        {
+            "cell": "6179-24833", 
+            "signal strength": "-86"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-25107", 
+        "signal strength": "-64", 
+        "ta": "15"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-8579", 
+            "signal strength": "-66"
+        }, 
+        {
+            "cell": "6179-8657", 
+            "signal strength": "-76"
+        }, 
+        {
+            "cell": "6179-8659", 
+            "signal strength": "-76"
+        }, 
+        {
+            "cell": "6179-24835", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6179-9010", 
+            "signal strength": "-82"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9042", 
+        "signal strength": "-63", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-9089", 
+            "signal strength": "-56"
+        }, 
+        {
+            "cell": "6179-9091", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6179-8579", 
+            "signal strength": "-87"
+        }, 
+        {
+            "cell": "6179-8305", 
+            "signal strength": "-87"
+        }, 
+        {
+            "cell": "6179-8513", 
+            "signal strength": "-89"
+        }, 
+        {
+            "cell": "6179-9011", 
+            "signal strength": "-93"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9090", 
+        "signal strength": "-54", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-9251", 
+            "signal strength": "-54"
+        }, 
+        {
+            "cell": "6166-9234", 
+            "signal strength": "-71"
+        }, 
+        {
+            "cell": "6166-9250", 
+            "signal strength": "-72"
+        }, 
+        {
+            "cell": "6166-9233", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6166-9249", 
+            "signal strength": "-75"
+        }, 
+        {
+            "cell": "6166-61857", 
+            "signal strength": "-76"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-9235", 
+        "signal strength": "-48", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62114", 
+            "signal strength": "-69"
+        }, 
+        {
+            "cell": "6166-61858", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6166-63826", 
+            "signal strength": "-71"
+        }, 
+        {
+            "cell": "6166-61857", 
+            "signal strength": "-72"
+        }, 
+        {
+            "cell": "6179-24833", 
+            "signal strength": "-74"
+        }, 
+        {
+            "cell": "6361-58755", 
+            "signal strength": "-75"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-61859", 
+        "signal strength": "-56", 
+        "ta": "10"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-9041", 
+            "signal strength": "-40"
+        }, 
+        {
+            "cell": "6179-9043", 
+            "signal strength": "-40"
+        }, 
+        {
+            "cell": "6179-9042", 
+            "signal strength": "-52"
+        }, 
+        {
+            "cell": "6179-9011", 
+            "signal strength": "-57"
+        }, 
+        {
+            "cell": "6179-9010", 
+            "signal strength": "-69"
+        }, 
+        {
+            "cell": "6166-61859", 
+            "signal strength": "-73"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9009", 
+        "signal strength": "-63", 
+        "ta": "0"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-9122", 
+            "signal strength": "-48"
+        }, 
+        {
+            "cell": "6179-9121", 
+            "signal strength": "-58"
+        }, 
+        {
+            "cell": "6179-9043", 
+            "signal strength": "-63"
+        }, 
+        {
+            "cell": "6179-9011", 
+            "signal strength": "-67"
+        }, 
+        {
+            "cell": "6179-9010", 
+            "signal strength": "-74"
+        }, 
+        {
+            "cell": "6179-24835", 
+            "signal strength": "-77"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9042", 
+        "signal strength": "-54", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62114", 
+            "signal strength": "-67"
+        }, 
+        {
+            "cell": "6179-9009", 
+            "signal strength": "-69"
+        }, 
+        {
+            "cell": "6179-9041", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6166-62481", 
+            "signal strength": "-71"
+        }, 
+        {
+            "cell": "6179-24835", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6166-62145", 
+            "signal strength": "-75"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-61859", 
+        "signal strength": "-55", 
+        "ta": "10"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-61857", 
+            "signal strength": "-64"
+        }, 
+        {
+            "cell": "6166-62113", 
+            "signal strength": "-65"
+        }, 
+        {
+            "cell": "6166-62147", 
+            "signal strength": "-67"
+        }, 
+        {
+            "cell": "6166-62146", 
+            "signal strength": "-68"
+        }, 
+        {
+            "cell": "6166-61859", 
+            "signal strength": "-74"
+        }, 
+        {
+            "cell": "6166-62705", 
+            "signal strength": "-80"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62706", 
+        "signal strength": "-63", 
+        "ta": "9"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62482", 
+            "signal strength": "-71"
+        }, 
+        {
+            "cell": "6166-62674", 
+            "signal strength": "-76"
+        }, 
+        {
+            "cell": "6166-62097", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6166-62786", 
+            "signal strength": "-81"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62099", 
+        "signal strength": "-75", 
+        "ta": "10"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62146", 
+            "signal strength": "-65"
+        }, 
+        {
+            "cell": "6166-62113", 
+            "signal strength": "-68"
+        }, 
+        {
+            "cell": "6166-62705", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6166-61859", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6166-62707", 
+            "signal strength": "-74"
+        }, 
+        {
+            "cell": "6166-62706", 
+            "signal strength": "-74"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-61857", 
+        "signal strength": "-67", 
+        "ta": "10"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62114", 
+            "signal strength": "-63"
+        }, 
+        {
+            "cell": "6179-24833", 
+            "signal strength": "-65"
+        }, 
+        {
+            "cell": "6166-62115", 
+            "signal strength": "-66"
+        }, 
+        {
+            "cell": "6166-62145", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6166-62707", 
+            "signal strength": "-72"
+        }, 
+        {
+            "cell": "6179-24689", 
+            "signal strength": "-74"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62113", 
+        "signal strength": "-64", 
+        "ta": "9"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-8305", 
+            "signal strength": "-66"
+        }, 
+        {
+            "cell": "6179-9089", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6179-9011", 
+            "signal strength": "-79"
+        }, 
+        {
+            "cell": "6179-8514", 
+            "signal strength": "-79"
+        }, 
+        {
+            "cell": "6179-8579", 
+            "signal strength": "-86"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-8513", 
+        "signal strength": "-83", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-9043", 
+            "signal strength": "-74"
+        }, 
+        {
+            "cell": "6179-8305", 
+            "signal strength": "-84"
+        }, 
+        {
+            "cell": "6179-8579", 
+            "signal strength": "-87"
+        }, 
+        {
+            "cell": "6166-62481", 
+            "signal strength": "-88"
+        }, 
+        {
+            "cell": "6179-8514", 
+            "signal strength": "-89"
+        }, 
+        {
+            "cell": "6179-9041", 
+            "signal strength": "-90"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9011", 
+        "signal strength": "-73", 
+        "ta": "0"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-9041", 
+            "signal strength": "-61"
+        }, 
+        {
+            "cell": "6179-24835", 
+            "signal strength": "-62"
+        }, 
+        {
+            "cell": "6179-9042", 
+            "signal strength": "-72"
+        }, 
+        {
+            "cell": "6179-9011", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6179-9106", 
+            "signal strength": "-79"
+        }, 
+        {
+            "cell": "6179-9010", 
+            "signal strength": "-82"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9009", 
+        "signal strength": "-62", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-24833", 
+            "signal strength": "-67"
+        }, 
+        {
+            "cell": "6179-24689", 
+            "signal strength": "-75"
+        }, 
+        {
+            "cell": "6179-24691", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6179-9009", 
+            "signal strength": "-77"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-24835", 
+        "signal strength": "-65", 
+        "ta": "0"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-9106", 
+            "signal strength": "-67"
+        }, 
+        {
+            "cell": "6179-9011", 
+            "signal strength": "-79"
+        }, 
+        {
+            "cell": "6179-9057", 
+            "signal strength": "-79"
+        }, 
+        {
+            "cell": "6179-9107", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6179-9009", 
+            "signal strength": "-82"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-9058", 
+        "signal strength": "-71", 
+        "ta": "0"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62179", 
+            "signal strength": "-68"
+        }, 
+        {
+            "cell": "6166-62177", 
+            "signal strength": "-74"
+        }, 
+        {
+            "cell": "6166-62146", 
+            "signal strength": "-76"
+        }, 
+        {
+            "cell": "6166-62483", 
+            "signal strength": "-78"
+        }, 
+        {
+            "cell": "6179-9105", 
+            "signal strength": "-78"
+        }, 
+        {
+            "cell": "6179-9106", 
+            "signal strength": "-79"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62482", 
+        "signal strength": "-59", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-9058", 
+            "signal strength": "-76"
+        }, 
+        {
+            "cell": "6166-62178", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6179-9011", 
+            "signal strength": "-83"
+        }, 
+        {
+            "cell": "6179-9105", 
+            "signal strength": "-85"
+        }, 
+        {
+            "cell": "6166-62482", 
+            "signal strength": "-87"
+        }, 
+        {
+            "cell": "6166-62483", 
+            "signal strength": "-88"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62481", 
+        "signal strength": "-72", 
+        "ta": "1"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-25106", 
+            "signal strength": "-75"
+        }, 
+        {
+            "cell": "6179-24689", 
+            "signal strength": "-80"
+        }, 
+        {
+            "cell": "6179-24835", 
+            "signal strength": "-82"
+        }, 
+        {
+            "cell": "6166-61859", 
+            "signal strength": "-87"
+        }, 
+        {
+            "cell": "6179-9009", 
+            "signal strength": "-88"
+        }, 
+        {
+            "cell": "6166-62145", 
+            "signal strength": "-91"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-24833", 
+        "signal strength": "-70", 
+        "ta": "0"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6179-25105", 
+            "signal strength": "-73"
+        }, 
+        {
+            "cell": "6179-25106", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6166-62113", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6166-62145", 
+            "signal strength": "-81"
+        }, 
+        {
+            "cell": "6179-9041", 
+            "signal strength": "-81"
+        }, 
+        {
+            "cell": "6179-24833", 
+            "signal strength": "-82"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6179-25107", 
+        "signal strength": "-61", 
+        "ta": "15"
+    }
+}
+
+
+{
+    "neighbor cell list": [
+        {
+            "cell": "6166-62481", 
+            "signal strength": "-69"
+        }, 
+        {
+            "cell": "6166-62115", 
+            "signal strength": "-70"
+        }, 
+        {
+            "cell": "6166-62113", 
+            "signal strength": "-72"
+        }, 
+        {
+            "cell": "6166-62147", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6179-24833", 
+            "signal strength": "-77"
+        }, 
+        {
+            "cell": "6166-62177", 
+            "signal strength": "-79"
+        }
+    ], 
+    "serving cell": {
+        "cell": "6166-62146", 
+        "signal strength": "-64", 
+        "ta": "10"
+    }
+}
+
+
